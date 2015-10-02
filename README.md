@@ -1,6 +1,6 @@
 # coffeelint-generator-test
 
-> Generator test
+> generator-coffeelint test rule: this should always fail
 
 ## Installation
 

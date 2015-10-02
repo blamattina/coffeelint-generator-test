@@ -2,10 +2,10 @@ class GeneratorTest
   rule:
     name: 'generator_test'
     level: 'error'
-    message: 'This is a test of generator coffeelint and should always fail.'
-    description: 'Generator test'
+    message: 'Generator test'
+    description: 'generator-coffeelint test rule: this should always fail'
 
   lintLine: ->
-    false
+    true
 
 module.exports = GeneratorTest

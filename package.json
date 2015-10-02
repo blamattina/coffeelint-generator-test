@@ -1,7 +1,7 @@
 {
   "name": "coffeelint-generator-test",
-  "version": "0.0.0",
-  "description": "Generator test",
+  "version": "0.0.1",
+  "description": "generator-coffeelint test rule: this should always fail",
   "scripts": {
     "lint": "coffeelint src/ spec/",
     "jasmine": "node jasmine-runner.js",
